@@ -7,6 +7,9 @@ building Ai course project
 MoodTunes is an AI-based music player that suggests songs based on your facial expression and mood.  
 It helps you discover the right music at the right moment.  
 
+![image of a headphone](/headphone-ai.jpg)
+
+
 ## Idea in a nutshell  
 MoodTunes is a smart music player that uses your webcam to detect your mood (like happy, sad, focused) and recommends songs that match your emotion. It uses facial recognition and AI to understand your current feeling and suggest personalized music.
 
@@ -15,6 +18,8 @@ Many people use music to support their emotions – to relax, to focus, or to fe
 MoodTunes solves this by making music choice automatic, fast, and more emotional.  
 
 This idea is personal to me because I often study or work listening music, and I’ve noticed how my mood changes depending on the song. I wanted to create a tool that understands me better and offers support without asking.
+
+![image of a cat](/smiley-ai.jpg)
 
 ## Data and AI techniques  
 MoodTunes uses facial emotion detection as its main AI feature. It could use open-source emotion detection libraries like DeepFace.
